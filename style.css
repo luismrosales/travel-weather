@@ -12,8 +12,17 @@ button {
   color: white;
   width: 100%;
   margin: 15px 0;
+  border-bottom: grey;
 }
-.container-sm {
-  border-bottom: solid 3px grey;
-  width: 100%;
+
+.result {
+  background: lightgray;
+  text-align: center;
+  color: black;
+  border-radius: 0.25rem;
+  padding: 3px;
+}
+
+#info1 {
+  border: 1.5px solid grey;
 }
